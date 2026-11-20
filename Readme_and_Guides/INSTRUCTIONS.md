@@ -44,8 +44,8 @@ Once the interface pops-up, it should look something like this:<br>
 
 We can ignore the checkboxes for the moment, all we need is an input file and an output destination.
 
-For the purposes of showing how the program works, we will use some example data obtained from Teams. To find the example data, go the the CMSE 495 channel, and in the general chat, navigate:<br>
-CMSE 495 Teams Channel > General > Shared > MDCR > Demo Data<br>
+For the purposes of showing how the program works, we will use some example data obtained from Teams. To find the example data, go the the CMSE 495 channel, and in the general chat, navigate:
+<br>CMSE 495 Teams Channel > General > Shared > MDCR > Demo Data<br>
 Then install the Contractor Workforce Data D CSV file.
 
 Once you have this file installed, go back to the interface and now choose to select an input file by clicking the “Browse…” button. This will open a file explorer where you can navigate through the files on your own device; use this to find the recently installed contractor data file. Once you find it, select it in the file explorer and it will then be selected as an input file for the program.
